@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Yadunand Prem
+Software Engineer, Keyboard Aficionado, Infra Builder, and Coffee Enjoyer. 
+## Currently working on
+- [My Keyboard](https://github.com/yadunut/nut-kb)
+- [My Infrastructure](https://github.com/yadunut/infrastructure)
+- [Github Backup](https://gitea.ts.yadunut.com/yadunut)
+- [Life] Work in Progress...
+
+Contact me at yadunand[at]yadunut[dot]com
+
+
+
 
 <!--
 **yadunut/yadunut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
